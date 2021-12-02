@@ -22,9 +22,7 @@ function TarjetaInicio() {
           <div className="col-xs-12 col-sm-6 col-sm-push-9">
             <h5 className="text-muted"> ENGLISH TEST </h5>
             <p className="text-dark" >
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam maiores perspiciatis iure assumenda aliquam
-              repudiandae sequi illum fuga, minus itaque culpa placeat dolores, corporis blanditiis. Commodi rerum fugit vel
-              quaerat. </p>
+              Company focused on English language assessment. </p>
             <button className="button btn-primary EnglishTest" onClick={() => history.push('/quiz')}>ENGLISH TEST
             </button>
           </div>

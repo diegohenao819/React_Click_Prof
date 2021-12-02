@@ -21,8 +21,9 @@ function TarjetaInicio() {
         <div className="row fotoContainer" >
           <div className="col-xs-12 col-sm-6 col-sm-push-9">
             <h5 className="text-muted"> ENGLISH TEST </h5>
-            <p className="text-dark" >
-              Company focused on English language assessment. </p>
+            <p className="text-dark" > We are a company specialized in English language online testing!  </p>
+            <br />
+            <p> Thanks to the experience we have acquired throughout the time, we can guarantee the correct assessment of a learner's English level.. </p>
             <button className="button btn-primary EnglishTest" onClick={() => history.push('/quiz')}>ENGLISH TEST
             </button>
           </div>
